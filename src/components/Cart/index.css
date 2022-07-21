@@ -1,0 +1,11 @@
+.cpDiv {
+  width: 100vw;
+  background-size: cover;
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.cpImage {
+  height: 60vh;
+}
