@@ -1,0 +1,6 @@
+https://ksr36react.ccbp.tech/
+
+ccbp start RJSCPDJRRD
+
+
+ccbp publish RJSCPDJRRD domain_name.ccbp.tech
